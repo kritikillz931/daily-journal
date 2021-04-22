@@ -1,0 +1,40 @@
+fieldset {
+    display: flex;
+    flex-direction: column;
+    max-width:50%;
+    /* text-align: center; */
+
+
+
+
+}
+
+.date {
+    border: 1px solid black;
+    height: 50px;
+    margin-bottom: .10rem;
+
+}
+
+
+.concepts {
+    border: 1px solid black;
+    height: 50px;
+    margin-bottom: .10rem;
+}
+
+
+.journalEntry {
+    border: 1px solid black;
+    height: 85px;
+    margin-bottom: .10rem;
+}
+
+.mood{
+    border: 1px solid black;
+    height: 50px;
+}
+
+.header {
+    text-align:left;
+}
